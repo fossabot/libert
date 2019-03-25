@@ -2,6 +2,7 @@
 Get ebooks for free, easily.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleovarmak-koinex%2Flibert.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleovarmak-koinex%2Flibert?ref=badge_shield)
 
 
 **Recommended: Deploy your own libert to heroku using the button above!**
@@ -50,3 +51,7 @@ Libert wouldn't have been the same without [@leovarmak](http://twitter.com/leova
 ## Disclaimer
 
 Libert fetches information about ebooks from http://libgen.io or http://gen.lib.rus.ec, and Google books with a different UI, without downloading or storing any ebook or book itself. The intention of Libert is to help people obtain information about public domain books without infringing on copyright or any form of Intellectual property right breach of any kind.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleovarmak-koinex%2Flibert.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleovarmak-koinex%2Flibert?ref=badge_large)
